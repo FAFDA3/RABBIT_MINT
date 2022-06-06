@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "ADDRESS OF NFT",
+  "SCAN_LINK": SCAN LINK",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Rinkeby",
+    "ID": 4
+  },
+  "NFT_NAME": "STRANGE RABBIT",
+  "SYMBOL": "SR",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://market_place_link",
+  "SHOW_BACKGROUND": true
+}
